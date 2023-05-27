@@ -1,2 +1,2 @@
 # exemplo
-pjx
+Este é um projeto para fazermos na sala
